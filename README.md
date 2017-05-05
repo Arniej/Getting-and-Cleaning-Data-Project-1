@@ -3,7 +3,7 @@
 
 * The project is about creating an R script file named run_analysis.R.
 
-* The codes are written in run_analysis.R file as described below:
+* The codes are written in R and stored in run_analysis.R file, as described below:
 1. Merges the training and the test sets to create one data set.
 2. Extracts only the measurements on the mean and standard deviation for each measurement.
 3. Uses descriptive activity names to name the activities in the data set
