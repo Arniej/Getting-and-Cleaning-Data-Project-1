@@ -1,7 +1,7 @@
 ## Getting-and-Cleaning-Data-Project
 ### Final project for Getting and Cleaning Data Course
 
-* The purpose of this project is to practice working with a data set, clean it and prepare tidy data. 
+* The purpose of this project is to practice working with a data set, collect the dat, clean it and prepare tidy data. 
 
 * The codes are written in an R script and stored in run_analysis.R file, as described below:
 1. Merges the training and the test sets to create one data set.
